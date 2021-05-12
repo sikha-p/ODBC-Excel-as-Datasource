@@ -1,0 +1,9 @@
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\obj\Debug\ODBC_Excel_As_Datasource.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\obj\Debug\ODBC_Excel_As_Datasource.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\bin\Debug\ODBC_Excel_As_Datasource.dll
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\bin\Debug\ODBC_Excel_As_Datasource.pdb
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\obj\Debug\ODBC_Excel_As_Datasource.csproj.CopyComplete
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\obj\Debug\ODBC_Excel_As_Datasource.dll
+C:\Users\Sikha.P\source\repos\ODBC_Excel_As_Datasource\ODBC_Excel_As_Datasource\obj\Debug\ODBC_Excel_As_Datasource.pdb
